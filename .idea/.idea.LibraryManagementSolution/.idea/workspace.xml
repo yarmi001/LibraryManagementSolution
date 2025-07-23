@@ -9,34 +9,71 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4a8592d8-c744-47a2-a319-fc9d5ee31d2b" name="Changes" comment="" />
+    <list default="true" id="4a8592d8-c744-47a2-a319-fc9d5ee31d2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.LibraryManagementSolution/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Application/DTOs/BookDto.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Application/Interfaces/IBookRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Application/Interfaces/IBookService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Application/Services/BookService.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Domain/Constants/Role.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Domain/Entities/Book.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Domain/Entities/User.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/Data/LibraryContext.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/Repositories/BookRepository.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.Tests/Controllers/BookControllerTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/Controllers/BookController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.LibraryManagementSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LibraryManagementSolution/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/LibraryManagement.Application.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/LibraryManagement.Application.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/LibraryManagement.Domain.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/LibraryManagement.Domain.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/LibraryManagement.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/LibraryManagement.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/LibraryManagement.WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/LibraryManagement.WebApi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/appsettings.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="42947897-70b3-45bb-81a2-c643b51ef2ab" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
   &quot;associatedIndex&quot;: 5
 }</component>
   <component name="ProjectId" id="30HRxSPhcO8KVHIJLZ4pW2VCcZq" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Launch Settings Profile.LibraryManagement.WebApi: IIS Express">
     <configuration name="LibraryManagement.WebApi: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/LibraryManagement.WebApi/LibraryManagement.WebApi.csproj" />
@@ -92,16 +129,28 @@
       <option name="presentableId" value="Default" />
       <updated>1753282761557</updated>
       <workItem from="1753282761557" duration="840000" />
-      <workItem from="1753284031460" duration="313000" />
+      <workItem from="1753284031460" duration="7770000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1753284708911</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1753284708911</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
