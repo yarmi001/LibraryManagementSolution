@@ -1,0 +1,16 @@
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\bin\Release\net8.0\LibraryManagement.Application.deps.json
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\bin\Release\net8.0\LibraryManagement.Application.dll
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\bin\Release\net8.0\LibraryManagement.Application.pdb
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\bin\Release\net8.0\LibraryManagement.Domain.dll
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\bin\Release\net8.0\LibraryManagement.Domain.pdb
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.csproj.AssemblyReference.cache
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.AssemblyInfoInputs.cache
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.AssemblyInfo.cs
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.csproj.CoreCompileInputs.cache
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.sourcelink.json
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryM.C4F4E017.Up2Date
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.dll
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\refint\LibraryManagement.Application.dll
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\LibraryManagement.Application.pdb
+C:\repos\LibraryManagementSolution\LibraryManagement.Application\obj\Release\net8.0\ref\LibraryManagement.Application.dll

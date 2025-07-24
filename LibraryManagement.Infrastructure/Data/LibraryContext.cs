@@ -12,6 +12,17 @@ public class LibraryContext : DbContext
     {
     }
 
+    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+    {
+        if (!optionsBuilder.IsConfigured)
+        {
+            optionsBuilder.UseNpgsql(
+                "Host=localhost;Database=LibraryDb;Username=postgres;Password=admin",
+            b => b.MigrationsAssembly("LibraryManagement.WebApi"));
+        }
+    }
+    
+
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Book>().HasIndex(b => new { b.Title, b.Author});
