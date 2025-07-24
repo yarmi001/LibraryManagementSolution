@@ -10,91 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4a8592d8-c744-47a2-a319-fc9d5ee31d2b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LibraryManagement.Application/DTOs/LoginDto.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/Controllers/AuthController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.LibraryManagementSolution/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.LibraryManagementSolution/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/bin/Debug/net8.0/LibraryManagement.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/ref/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/ref/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/refint/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/refint/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Application/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Application/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/bin/Debug/net8.0/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/bin/Debug/net8.0/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/bin/Debug/net8.0/LibraryManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/bin/Debug/net8.0/LibraryManagement.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/LibraryManagement.Domain.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/ref/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/ref/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/refint/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/Debug/net8.0/refint/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Domain/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Domain/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/Data/LibraryContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/Data/LibraryContext.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/bin/Debug/net8.0/LibraryManagement.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/LibraryManagement.Infrastructure.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/ref/LibraryManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/ref/LibraryManagement.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/refint/LibraryManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/Debug/net8.0/refint/LibraryManagement.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Infrastructure/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/Debug/net8.0/LibraryManagement.Tests.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/LibraryManagement.Tests.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/LibraryManagement.Tests.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.Tests/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.Tests/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/LibraryManagement.WebApi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/LibraryManagement.WebApi.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Application.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Application.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Application.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Application.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Domain.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Domain.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Domain.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Domain.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Infrastructure.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Infrastructure.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Infrastructure.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.Infrastructure.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.deps.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/bin/Debug/net8.0/LibraryManagement.WebApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.sourcelink.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/LibraryManagement.WebApi.sourcelink.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/apphost.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/ref/LibraryManagement.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/ref/LibraryManagement.WebApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/refint/LibraryManagement.WebApi.dll" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/refint/LibraryManagement.WebApi.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/Debug/net8.0/rjsmrazor.dswa.cache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/LibraryManagement.WebApi.csproj.nuget.g.targets" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/rider.project.model.nuget.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/rider.project.model.nuget.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/LibraryManagement.WebApi/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +30,7 @@
     <setting file="file://$PROJECT_DIR$/LibraryManagement.Application/bin/Release/net8.0/LibraryManagement.Application.deps.json" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LibraryManagement.Application/obj/Debug/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock://C:/repos/LibraryManagementSolution/LibraryManagement.Application/obj/Debug/net8.0/LibraryManagement.Application.AssemblyInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LibraryManagement.Application/obj/Release/net8.0/.NETCoreApp,Version=v8.0.AssemblyAttributes.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -207,7 +124,7 @@
       <option name="presentableId" value="Default" />
       <updated>1753282761557</updated>
       <workItem from="1753282761557" duration="840000" />
-      <workItem from="1753284031460" duration="17470000" />
+      <workItem from="1753284031460" duration="18113000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <option name="closed" value="true" />
@@ -233,7 +150,15 @@
       <option name="project" value="LOCAL" />
       <updated>1753313384329</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="+++">
+      <option name="closed" value="true" />
+      <created>1753376222714</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1753376222714</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +171,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="++" />
     <MESSAGE value="restore + build" />
-    <option name="LAST_COMMIT_MESSAGE" value="restore + build" />
+    <MESSAGE value="+++" />
+    <option name="LAST_COMMIT_MESSAGE" value="+++" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
