@@ -73,4 +73,4 @@
 - **Email**: [yarmisikov@gmail.com](mailto:ваш_email@example.com)
 
 ## Лицензия
-Проект распространяется под лицензией [MIT](LICENSE) (или укажите вашу лицензию).
+Проект распространяется под лицензией [MIT](LICENSE) 
